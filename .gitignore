@@ -3,5 +3,5 @@
 *.RHistory
 *.zip
 *.html
-data
+data/
 ABCD_demo_analysisqmd_files

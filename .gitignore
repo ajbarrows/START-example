@@ -4,6 +4,11 @@ data/**
 # except their sub-folders
 !data/**/
 
+notebooks/archive
+notebooks/scratch
+
+presentation/
+
 !.gitkeep
 !.gitignore
 *.DS_Store
